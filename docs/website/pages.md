@@ -192,4 +192,4 @@
 ## Typescript
 
 - [**TypeScript 入门教程**](https://ts.xcatliu.com/) 推荐阅读
-- [**深入理解 TypeScript**](https://jkchao.github.io/typescript-book-chinese/#why/) 深入理解 ts
+- [**深入理解 TypeScript**](https://jkchao.github.io/typescript-book-chinese/#why/) 深入理解 ts 
