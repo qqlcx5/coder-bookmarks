@@ -13,6 +13,8 @@
 
 ## Github
 
+- [**git emoji**](https://gitmoji.dev/)
+- [**git emoji 分类**](https://www.bugcatt.com/git%e6%8f%90%e4%ba%a4%e8%a1%a8%e6%83%85)
 - [**github 短域名服务**](https://git.io)
 - [**shields**](https://shields.io/) Github README 里面的装逼小图标
 - [**Emoji**](https://www.webpagefx.com/tools/emoji-cheat-sheet/) 方便平时写查找 emoji
